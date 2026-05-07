@@ -57,11 +57,9 @@ Disaster alert and emergency response platform using RabbitMQ and Spring Boot fo
 ---
 
 ## 📈 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-Everimit&show_icons=true&theme=tokyonight" />
 
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush-Everimit&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Everimit&layout=compact&theme=tokyonight)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Everimit&layout=compact&theme=tokyonight" />
 ---
 
 ## 📫 Connect With Me
