@@ -108,16 +108,28 @@ Trained a Logistic Regression model on historical IPL data to predict a team's w
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush-Everimit&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Aayush-Everimit&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aayush-Everimit&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-Everimit&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Everimit&layout=compact&theme=tokyonight" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aayush-Everimit&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Aayush-Everimit&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
+
 ---
 
 ## 📫 Connect With Me
