@@ -41,7 +41,12 @@
 <p>
   <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" />
+  <img
+  src="https://api.iconify.design/simple-icons:powerbi.svg?color=%23F2C811"
+  width="48"
+  height="48"
+  alt="Power BI"
+/>
 </p>
 
 **Applied AI / GenAI**
@@ -50,7 +55,12 @@
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/chroma/FF6F61" width="48" height="48" />
+   <img
+  src="https://api.iconify.design/logos:qdrant.svg"
+  width="48"
+  height="48"
+  alt="Qdrant"
+/>
 </p>
 
 <p>
