@@ -13,56 +13,67 @@
 
 ## 🚀 Tech Stack
 
-
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark&perline=8" />
+</p>
 
 ### Backend & APIs
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=fastapi,hibernate,postgresql,mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,hibernate,postgres,mysql&theme=dark&perline=6" />
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/quarkus/4695EB" width="48" height="48" />
+  <img src="https://img.shields.io/badge/REST_API-242938?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
 
 ### Data Science & AI/ML
-**Core:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Applied AI (RAG / GenAI):**
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00758F?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-6A0DAD?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-4B0082?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)
+**Core**
 
-<img src="https://skillicons.dev/icons?i=python,pandas,scikitlearn,tensorflow,pytorch,matplotlib" />
-<img src="https://skillicons.dev/icons?i=gemini,ollama" />
+<p>
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch&theme=dark&perline=8" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" />
+</p>
+<p>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" />
+</p>
+
+**Applied AI / GenAI**
+
+<p>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/chroma/FF6F61" width="48" height="48" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Embeddings-6A0DAD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_DBs-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-2E8B57?style=flat-square" />
+</p>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,ts" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,ts&theme=dark&perline=6" />
+</p>
 
-### Database, Tools & AI Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+### Databases, DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,arch" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,linux,arch&theme=dark&perline=8" />
+</p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,maven,idea&theme=dark&perline=6" />
+</p>
 
 ---
 
