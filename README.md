@@ -13,12 +13,18 @@
 
 ## 🚀 Tech Stack
 
-### Backend
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
+
+### Backend & APIs
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=fastapi,hibernate,postgresql,mysql" />
 
 ### Data Science & AI/ML
 **Core:**
@@ -36,11 +42,16 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)
 
+<img src="https://skillicons.dev/icons?i=python,pandas,scikitlearn,tensorflow,pytorch,matplotlib" />
+<img src="https://skillicons.dev/icons?i=gemini,ollama" />
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,ts" />
 
 ### Database, Tools & AI Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,6 +60,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,arch" />
+
 
 ---
 
@@ -70,14 +84,19 @@ Local-first AI system assistant for Arch Linux — real-time log analysis, proac
 Trained a Logistic Regression model on historical IPL data to predict a team's win probability after each ball bowled — early hands-on step into applied ML.
 
 ---
-
 ## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush-Everimit&theme=tokyonight" />
+</p>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush-Everimit&show_icons=true&theme=tokyonight" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Everimit&layout=compact&theme=tokyonight" />
 
-<img height="195em" src="https://streak-stats.demolab.com/?user=Aayush-Everimit&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aayush-Everimit&theme=tokyonight" />
+</p>
 ---
 
 ## 📫 Connect With Me
