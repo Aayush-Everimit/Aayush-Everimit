@@ -124,7 +124,7 @@ Trained a Logistic Regression model on historical IPL data to predict a team's w
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Aayush-Everimit&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab/?user=Aayush-Everimit&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
