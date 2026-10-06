@@ -107,13 +107,16 @@ Trained a Logistic Regression model on historical IPL data to predict a team's w
 ---
 ## 📈 GitHub Stats
 
+
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=Aayush-Everimit&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"
+    src="https://github-readme-stats.vercel.app/api?username=Aayush-Everimit&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
-  </p>
+</p>
+
+</p>
 <p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aayush-Everimit&layout=compact&theme=tokyonight&hide_border=true"
@@ -124,12 +127,10 @@ Trained a Logistic Regression model on historical IPL data to predict a team's w
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Aayush-Everimit&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Everimit&theme=tokyonight&hide_border=true"
     height="180"
-    alt="GitHub Stats"
+    alt="GitHub Streak"
   />
-</p>
-
 
 ---
 
