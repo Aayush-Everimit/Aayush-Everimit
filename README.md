@@ -11,6 +11,7 @@
 
 ---
 
+
 ## 🚀 Tech Stack
 
 ### Languages
@@ -30,7 +31,7 @@
   <img src="https://img.shields.io/badge/REST_API-242938?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
-### Data Science & AI/ML
+### Data Science & AI/Machine Learning
 
 **Core**
 
